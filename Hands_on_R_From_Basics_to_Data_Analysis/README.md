@@ -31,20 +31,20 @@ This course introduces fundamental R programming concepts, including vector crea
 
 ## 📂 Folder Structure
 ```
-
 Hands_on_R_From_Basics_to_Data_Analysis/
 │
-├── README.md                               # Overview file
-├── courseNotes.md                           # General course notes
+├── README.md                                  # Overview file
+├── courseNotes.md                             # General course notes
 ├── assignment01/
-│   ├── assignment1_report.md               # Detailed analysis report
+│   ├── assignment1_report.md                  # Detailed analysis report
 │   ├── Assignment1_Fundamental_R_Programming_and_Gene_Data_Analysis.Rmd
 │   └── Assignment1_Fundamental_R_Programming_and_Gene_Data_Analysis.pdf
 └── BloodPressure_Statistical_Analysis_Project/
-├── BloodPressure_Analysis_Report.md    # Detailed project report
-├── ProjectA_BloodPressure_Analysis.Rmd                        # R notebook
-├── ProjectA_BloodPressure_Analysis.pdf                         # PDF output of analysis
-└── BloodPressure.RData                       # R workspace data file
+    ├── README.md                              # Overview file for Blood Pressure Project
+    ├── BloodPressure_Analysis_Report.md       # Detailed project report
+    ├── ProjectA_BloodPressure_Analysis.Rmd    # R notebook
+    ├── ProjectA_BloodPressure_Analysis.pdf    # PDF output of analysis
+    └── BloodPressure.RData                    # R workspace data file
 ```
 
 ---
