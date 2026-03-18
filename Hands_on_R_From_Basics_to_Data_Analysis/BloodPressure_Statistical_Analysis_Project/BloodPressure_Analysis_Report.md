@@ -103,12 +103,7 @@ This is achieved by applying descriptive and inferential statistical techniques 
 * **t = 3.011**, **df = 8**, **p = 0.01679**
   → Significant difference between males and females (p < 0.05).
 
-### **b. Dose comparison (t-test, 0 mg vs 10 mg)**
-
-* **t = -8.4238**, **df = 17.565**, **p = 1.0**
-  → No significant difference detected (one-sided test returned p = 1).
-
-### **c. ANOVA (all dose levels)**
+### **b. ANOVA (all dose levels)**
 
 * **F(3,36) = 35.42**, **p = 7.71e-11** → Highly significant difference among dose groups.
 
